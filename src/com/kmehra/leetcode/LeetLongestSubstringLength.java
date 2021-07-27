@@ -4,6 +4,12 @@ import java.util.LinkedHashSet;
 
 public class LeetLongestSubstringLength {
 
+// SWP
+// Write a function called findLongestSubstring, which accepts 
+// a string and returns the length of the longest substring with
+// all distinct characters. 	
+// 
+// https://leetcode.com/problems/longest-substring-without-repeating-characters	
 public static int findLongestSubstring(String str) {
 		
 		int maxSize = 0;
